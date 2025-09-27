@@ -10,7 +10,7 @@ int main(){
     cin>>n;
 
     int arr[n];
-    cout<<"Enter the Elements of the array:"<<" | "<<endl;
+    cout<<"Enter the Elements of the array:"<<endl;
     for(int i=0;i<n;i++){
         cin>>arr[i];
     }
